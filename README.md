@@ -6,3 +6,4 @@ Os dados precisavam ser balanceados para que conseguíssemos fazer o modelo de m
 Após termos feito toda a parte das análises e manipulações do banco de dados, conseguimos aplicar os três modelos de machine learning e compará-los. Então, fizemos a Regressão logística, a Árvore de decisão e a Floresta aleatória. Além disso, comparamos as três com várias métricas.
 
 Durante o curso, aprendemos a utilizar as métricas e modelos e, ao final, também aprendemos a melhorar o modelo Random Forest. 
+
